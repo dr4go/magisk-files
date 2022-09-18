@@ -37,13 +37,13 @@ A custom Magisk by dr4go (with different pkg name), which is always synchronized
 
 #### Download
 
-- [Download Canary](https://dr4go.github.io/magisk-files/26ff6f0c/app-release.apk)
-- [Download Debug](https://dr4go.github.io/magisk-files/26ff6f0c/app-debug.apk)
+- [Download Canary](https://dr4go.github.io/magisk-files/f4e7881e/app-release.apk)
+- [Download Debug](https://dr4go.github.io/magisk-files/f4e7881e/app-debug.apk)
 
 #### Source code
 
-- [Changelog](https://github.com/dr4go/magisk-files/26ff6f0c/note.md)
-- [Source code](https://github.com/topjohnwu/Magisk/tree/26ff6f0c)
+- [Changelog](https://github.com/dr4go/magisk-files/f4e7881e/note.md)
+- [Source code](https://github.com/topjohnwu/Magisk/tree/f4e7881e)
 
 ## FAQ
 
