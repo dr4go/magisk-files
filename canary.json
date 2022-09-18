@@ -1,12 +1,12 @@
 {
   "magisk": {
-    "version": "b433cbee-delta",
+    "version": "26ff6f0c",
     "versionCode": "25203",
-    "link": "https://huskydg.github.io/magisk-files/app-release.apk",
-    "note": "https://huskydg.github.io/magisk-files/note.md"
+    "link": "https://dr4go.github.io/magisk-files/26ff6f0c/app-release.apk",
+    "note": "https://dr4go.github.io/magisk-files/26ff6f0c/note.md"
   },
   "stub": {
     "versionCode": "34",
-    "link": "https://huskydg.github.io/magisk-files/stub-release.apk"
+    "link": "https://dr4go.github.io/magisk-files/26ff6f0c/stub-release.apk"
   }
 }

@@ -10,7 +10,7 @@ This repo hosts Magisk delta related files
 
 > If you are looking for official Magisk source, you are in the wrong place, please [go to this page and download Official Magisk](https://github.com/topjohnwu/Magisk)
 
-Yet another crazy custom Magisk by HuskyDG, is always synchronized with official Magisk, including back MagiskHide and some custom features.
+A custom Magisk by dr4go (with different pkg name), which is always synchronized with HuskyDG's Magisk.
 
 ## Download
 
@@ -37,13 +37,13 @@ Yet another crazy custom Magisk by HuskyDG, is always synchronized with official
 
 #### Download
 
-- [Download Canary](https://huskydg.github.io/magisk-files/app-release.apk)
-- [Download Debug](https://huskydg.github.io/magisk-files/app-debug.apk)
+- [Download Canary](https://dr4go.github.io/magisk-files/26ff6f0c/app-release.apk)
+- [Download Debug](https://dr4go.github.io/magisk-files/26ff6f0c/app-debug.apk)
 
 #### Source code
 
-- [Changelog](https://github.com/HuskyDG/magisk-files/blob/main/note.md)
-- [Source code](https://github.com/topjohnwu/Magisk/tree/b433cbee)
+- [Changelog](https://github.com/dr4go/magisk-files/26ff6f0c/note.md)
+- [Source code](https://github.com/topjohnwu/Magisk/tree/26ff6f0c)
 
 ## FAQ
 
